@@ -1,0 +1,21 @@
+h1{
+    color: brown;
+}
+.sub-title-first{
+    color: burlywood;
+}
+#spaan{
+    color: chartreuse;
+}
+p.text{
+    color: cyan;
+}
+.sub-title-two,.sub-title-three{
+    color: darkmagenta;
+}
+.plus > p{
+    color: darkred;
+}
+.plus-first + p{
+    color: darkolivegreen;
+}
